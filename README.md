@@ -1,8 +1,6 @@
 # 🚀 Auto-Cat: Automatic Category Generation
 
 
-## Welcome to the Data Categorization!
-
 Tired of manually sifting through mountains of unstructured data? Meet Auto-Cat, your AI-powered solution for Automatic Category Generation! 🎉
 
 Auto-Cat isn't just another categorization tool; it's a sophisticated, multi-algorithm approach to understanding and organizing your data. Whether you're dealing with customer feedback, support tickets, or any text-based dataset, Auto-Cat is here to transform chaos into clarity!
@@ -19,8 +17,9 @@ Auto-Cat isn't just another categorization tool; it's a sophisticated, multi-alg
 
 1. Clone this repo: `git clone https://github.com/crypticpy/Auto-Cat.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the main script: `python main.py`
-4. Follow the prompts and watch Auto-Cat work its magic!
+3. Configure a .env file with your `OPENAI_API_KEY`
+4. Run the main script: `python main.py`
+5. Follow the prompts and watch Auto-Cat work its magic!
 
 ## 🧠 The Science Behind Auto-Cat
 
