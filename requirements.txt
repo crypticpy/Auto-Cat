@@ -1,0 +1,16 @@
+pandas~=2.2.2
+numpy~=1.26.4
+scikit-learn~=1.5.1
+hdbscan
+openai
+chromadb~=0.5.5
+matplotlib~=3.9.1
+seaborn~=0.13.2
+rich~=13.7.1
+tenacity~=9.0.0
+scipy~=1.14.0
+python-dotenv~=1.0.1
+
+aiohttp~=3.10.3
+cachetools~=5.4.0
+wordcloud~=1.9.3
